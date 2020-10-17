@@ -1,0 +1,5 @@
+int main(){
+    int a = 20, b = 30;
+    char ch;
+    float f;
+}
